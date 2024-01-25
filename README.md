@@ -7,3 +7,8 @@ csv파일로 저장을 합니다
 
 https://youtu.be/95yUUsdXKTg
 
+ <td>
+        <a href="https://youtu.be/95yUUsdXKTg" title="주식 정보 자동화 얻기">
+          <img align="center" src="https://img.youtube.com/vi/95yUUsdXKTg/0.jpg" width="300" alt-text="">
+        </a>
+      </td>
